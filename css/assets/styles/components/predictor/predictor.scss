@@ -24,7 +24,7 @@
   border: 10px solid #f3f3f3; /* Light grey */
   border-top: 10px solid #383636; /* Blue */
   border-radius: 50%;
-  animation: spinner 1.5s linear 1;
+  animation: spinner 1.5s linear infinite;
 }
 
 .spinner-container {
